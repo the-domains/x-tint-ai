@@ -23,7 +23,7 @@ color:
     - '#cfbcae'
     - '#403e41'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0
+  lightness: 0.3125
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
